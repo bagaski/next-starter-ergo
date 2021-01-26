@@ -3,9 +3,9 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
+    <h1>The History of Sleep</h1>
 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>built with <a href="https://nextjs.org">Next.js</a>!</h3>
 
     <style jsx>{`
       :global(html,body) {
@@ -26,8 +26,8 @@ const Home = () => (
         align-items: center;
         justify-content: center;
         text-align: center;
-        background-color: #282c34;
-        color: white;
+        background-color: #dd85d7;
+        color: #303030;
       }
 
       a {
